@@ -11,13 +11,13 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Nathan R | Gunn High School | Electrical Engineering | Incoming Junior
 
-<!---**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
 # Final Milestone
 
-<!---**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**--->
+**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -39,15 +39,15 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone --->
+- What needs to be completed before your final milestone -->
 
 # First Milestone
 
-<!---**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**--->
+<!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cXjjOHeO9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my first milestone,Ii completed the omni wheel robot as it came out of the box. Throughout the process of building, I learned more about the specific parts and their purposes such as how the unique wheels functioned and the different types of sensors used for the object avoidance and line following modes. Despite the robot being a part of a kit, it gave me a good platform to build on in the future, which i plan to add LEDS, 3D print, and add a new mode.
+For my first milestone, I completed the omni wheel robot as it came out of the box. Throughout the process of building, I learned more about the specific parts and their purposes as well as how each part interacted with each other. For example, while using the object avoidance mode, the IR sensors can detect an object in front of it and as a response, is able to trigger the motors, which spin in a certain way to avoid the obstacle. The main challenges i faced was understanding the wiring and how to manage all of it. I overcame this issue by paying attention to the labelled pins on the wire and the board. Despite the robot being a part of a kit, it gave me a good platform to build on in the future, which i plan to add various LEDS as headlights and tailights, which I want to connect and control from a seperate arduino, as well as 3D print various parts such as a spoiler and a cover for the second arduino, which i plan to fit on top of the robot.
 
 # Starter Project
 
