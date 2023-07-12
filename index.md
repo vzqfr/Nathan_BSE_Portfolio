@@ -2,10 +2,6 @@
 The omni wheel robot can not only work like a normal car, but also features unique wheels that have individual wheels on them that allow the robot to shift in different directions based on which individual wheel is spinning. In addition, the robot features a hand gesture mode that can be uses IR infared sensors to detect objects and shift the robot left, right and backwards. The robot also features a bluetooth module which allows it to be connected to a phone, which can be used to remotely control the robot. The robot also features a object avoidance and line following mode, which utilizes its sensors and limit switches.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
