@@ -11,8 +11,6 @@ The omni wheel robot can not only work like a normal car, but also features uniq
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQHj8EMfyqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
@@ -20,6 +18,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
+For my third and final milestone, i worked on a button that cycled through various light modes for the LEDS as well as a 3D printed box that held the the rest of the components. As for the button, it only involved...
 
 
 
