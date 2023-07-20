@@ -29,11 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZwUDglRnylw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone
+For my second milestone, I mainly worked on setting up and getting my LEDS to work. For the LEDS themselves i used RGB neopixels both individually and in strips. I used the individual LEDS for the front headlights, whereas i used the strips in sections of 2 and 3 for the taillights. What really surprised my was that almost all of the RGB neopixels had the same pins. In order to connect them together, each RGB neopixel has a DIN, 5V, and ground pin, which i used to solder each neopixel together with wires. In the end, I had two pairs of wires, which could not connect directly to one arduino, which only had 1 5V pin, so i used an arduino pro micro connected to a breadboard, which allowed multiple wires to connect to the 5V pin. I then used the FastLED library in order to get the neopixels themselves to work. Personally, i found mounting the LEDS the biggest challenge so far, since it involved precise hotglueing, which was difficult. I then connected a 9V battery to the system, however, the as long as the battery was plugged in, the LEDS would always stay on, so i decided to add a switch to control if the system got current or not. Overall, adding the LEDS was a good way to make my project more unique and personalized. Before my final milestone, I wanted to add a button that cycles between various color modes.
 
 
 # First Milestone
