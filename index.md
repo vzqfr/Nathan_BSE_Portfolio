@@ -261,9 +261,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Neopixel LED strip | Taillights | 30$ | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/BTF-LIGHTING-Upgraded-Individually-Addressable-Non-Waterproof/dp/B07LG5S6DK/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d%3Aamzn1.sym.1c86ab1a-a73c-4131-85f1-15bd92ae152d&crid=1MLU7C071BZ5F&cv_ct_cx=neopixel&keywords=neopixel&pd_rd_i=B07LG5S6DK&pd_rd_r=af5a025e-7e2a-4bf4-aa13-c03350394920&pd_rd_w=CM7Hs&pd_rd_wg=qweHi&pf_rd_p=1c86ab1a-a73c-4131-85f1-15bd92ae152d&pf_rd_r=PCYQBW6EA01ZRQVF7RJR&qid=1689873653&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=neopixel%2Caps%2C246&sr=1-2-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)"> Link </a> |
+| Neopixel grid | Headlights | 15$ | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ALITOVE-100pcs-WS2812B-Addressable-Arduino/dp/B01D1FFVOA/ref=sr_1_6?crid=3CQ2U3PFY2GFP&keywords=neopixel+grid&qid=1689873784&sprefix=neopixel+grid%2Caps%2C137&sr=8-6)"> Link </a> |
+| plastic sheet | Taillights | 10$ | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Translucent-Stencil-Gyro-Cut-Template-Material/dp/B08PVYHH4M/ref=sr_1_5?crid=2VVXAIK48Q23F&keywords=opaque+plastic+sheet&qid=1689873944&sprefix=opaque+plastic+sheet%2Caps%2C123&sr=8-5)"> Link </a> |
 
 <!--- # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
