@@ -47,7 +47,6 @@ For my first milestone, I completed the omni wheel robot as it came out of the b
 My starter project was a soldering exercise that features 3 sliders that control the red, green, and blue on the LED that is also attatched to the system. The can be connected via USB to a computer to be powered and controlled. A challenge that i faced while building was the polarity of the LED. At the time, I forgot to pay attention to the orientation of the LED, which led to LED colors to be reversed. However, this was a simple fix as it only required some de-soldering.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 ![Schematic](rgb-circuit-734x1000.webp)
 ![pic1](IMG-0385.jpg)
