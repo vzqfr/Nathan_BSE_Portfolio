@@ -7,7 +7,7 @@ The omni wheel robot can not only work like a normal car, but also features uniq
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](logo.svg) -->
   
 # Final Milestone
 
@@ -19,7 +19,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE -->
+- What you hope to learn in the future after everything you've learned at BSE
 
 
 
