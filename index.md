@@ -8,7 +8,7 @@ The omni wheel robot can not only work like a normal car, but also features uniq
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
 ![Headstone Image]()
-<img src="yase-114.jpg" width="100" />
+<img src="yase-114.jpg" width="300" />
   
 # Final Milestone
 
