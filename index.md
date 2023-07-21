@@ -5,20 +5,15 @@ The omni wheel robot can not only work like a normal car, but also features uniq
 |:--:|:--:|:--:|:--:|
 | Nathan R | Gunn High School | Electrical Engineering | Incoming Junior
 
-<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-![Headstone Image](logo.svg) -->
+![Headstone Image](yase-114.jpg)
   
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQHj8EMfyqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-For my third and final milestone, i worked on a button that cycled through various light modes for the LEDS as well as a 3D printed box that held the the rest of the components. As for the button, it only involved...
+For my third and final milestone, I worked on a button that cycled through various light modes for the LEDS as well as a 3D printed box that held the the rest of the components. As for the button I programmed it using the arduino IDE in combination with the fastLED and ezbutton libraries. At first, I expected the color cycles to change based on button press, however during the delays that I used for my color patterns, the button could not be pressed during that time. As an adaptation, I made my button so it had to be held instead. For the 3D printed box, I used CAD to design it. Beforehand, I had to measure the distance between the screw holes i intended to use as well as the width of the arduino and the battery in order to make sure everything fit well. In addition, I 3D printed a lid that press fits on the top, along with holes for the button, the switch, and the wires. My few biggest challenges while building my project were mounting the LEDS, programming the button, and the issue with the randomly spinning wheels and my overall biggest triumph during my time at Bluestamp is when I put everything on my project together. During my 3 weeks at Bluestamp I learned a lot. For example, I learned how to solder, some programming in c++ in the arduino software, how to wire different things like neopixel LEDS, buttons, and switches to an arduino, and how many different components work. What I hope to learn in the future is more about different engineering aspects in general, but more about coding. When I came to bluestamp, I didnt feel interested especially in programming, but in the end, it is something I want to learn more about in the future.
 
 
 
